@@ -1,4 +1,21 @@
-# 💤 LazyVim
+# Configuración de Nvim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Lazyvim
+
+- [Lazyvim](https://github.com/LazyVim/LazyVim)
+
+## Colorscheme
+
+- [`sainnhe/sonokai`](https://github.com/sainnhe/sonokai)
+  - Fondo transparente
+
+## Emmet
+
+- Soporte para:
+  - HTML
+  - CSS
+  - JavaScript
+  - TypeScript
+  - JSX
+  - TSX
+  - Vue
